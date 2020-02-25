@@ -1,0 +1,105 @@
+body {
+  background-image: url(Images/baseball1.jpg); 
+      background-repeat:repeat;
+      background-size:cover;
+  background-color:dodgerblue;
+  color: ghostwhite;
+  font-family: monospace;
+  font-size: 20px;
+}
+p {
+  color: rgb(255,255,255);
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  height: inherit;
+
+
+}
+p2 {
+  color: ghostwhite;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  height: inherit;
+
+
+}
+h1 {
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 35px;
+  text-align-last: center;
+  color: rgb(0,0,0)
+  
+
+  
+  
+}
+h3 {
+  border-style: double
+    b
+  
+  
+}
+.thom {
+    text-align-last: center;
+    image-orientation: center;
+    border: 5px blue double;
+    
+    
+}
+.funfacts {
+    background-image: url(Images/baseball8.jpg);
+        background-size:auto
+}
+.pics {
+    background-color: dodgerblue
+    
+}
+.stretches {
+    background-image: url(Images/baseball8.jpg);
+        background-size: auto;
+}
+.strengths {
+    background-image: url();
+}
+.history {
+    background-image: url(Images/washington.jpg);
+        background-size: cover;
+            
+}
+.historytxt {
+    color: rgb(255,255,255);
+    font-weight: bold;
+}
+.sdshow {
+    text-align: center;
+    image-orientation: center;
+}
+.stretchtxt {
+    color: rgb(250,16,177);
+    font-weight: bold;
+    font-size: 15;
+}
+
+.artifacts {
+    border: 2px ghostwhite dashed;
+    border-bottom-style: dashed;
+    width: 400px;
+    text-align: center;
+}
+.caption {
+    color: aqua;
+    font-weight: bolder;
+}
+.artifact{
+    background-image: url()
+}
+.caption {
+    text-align: center;
+    color: ghostwhite;
+    
+}
+
+}
